@@ -6,6 +6,6 @@
 
 ## GİF
 
-<img src="Udemig.gif" width="50%" />
+<img src="Udemig.gif" />
 
 
